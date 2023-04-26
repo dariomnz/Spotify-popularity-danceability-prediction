@@ -82,10 +82,67 @@ Por último también se ha realizado una comparación entre las variables bailab
 \begin{figure}[h!] \includegraphics[width=\columnwidth]{images/danceability_speechiness_scatterplot.png} \caption{Relación de danzabilidad y locuencia} \label{fig:relacion danzabilidad y locuencia} \end{figure}
 
 \section{Método}
-Primero se realizará un preprocesado de los datos eliminando algunos inservibles como los id de la canción. Y se dividirá el dataset en dos, uno para entrenamiento y otro para test.
+Primero se realizará un preprocesado de los datos eliminando algunos inservibles, y quedándonos solo con: energy, liveness, tempo, valence, loudness, speechiness, acousticness, danceability, instrumentalness. A continuación se realizara una normalización de los datos que no se encuentran entre 0 y 1 que serian popularity, loudness y tempo.
 \subsection{Aprendizaje supervisado}
-Para el aprendizaje supervisado se realizará mediante técnicas de regresión. Una vez entrenado el modelo, este se evaluará con el conjunto de test para obtener diferentes métricas que sirvan como comprobación de que el modelo está funcionando correctamente.
+Para el aprendizaje supervisado primero se dividirá el dataset en dos grupos train y test con una division de 70 a 30. Este aprendizaje se realizará mediante técnicas de regresión. Las elegidas han sido: Simple Linear Regression, KNeighborsRegressor, RandomForestRegressor y una red neuronal de TensorFlow. Una vez entrenado el modelo, este se evaluará con el conjunto de test para obtener diferentes métricas que sirvan como comprobación de que el modelo está funcionando correctamente.
+Como mas adelante se explicara, en la sección de resultados, los conseguidos no son lo suficientemente satisfactorios, por lo que se tomara otro enfoque a este problema. En vez de usar regresión, se calificara entre popular y no popular a las canciones, haciendo esta etiquetación a partir de el valor 0.41 de popularidad que se encuentra en el 75\% de los datos. Y seguido de esto se realizara un balanceo de las clases ya que al dividirlo en 75\% y 25\%se han desbalanceado las clases.
 \subsection{Aprendizaje no supervisado}
+TODO
 Respecto al aprendizaje no supervisado se aplicaran técnicas de clustering y de reducción de dimensionalidad. El clustering nos ayudará a ver cómo está segmentado el mercado y en que se fijan los consumidores y con la reducción de dimensionalidad conseguiremos hacer un modelo más pequeño sin tantas variables pero con una eficacia muy parecida.
+
+\section{Resultados}
+\subsection{Aprendizaje supervisado}
+\begin{table}[t]
+    \begin{center}
+        \begin{tabular}{| c | c | c | c | }\hline
+            Modelo                   & $R^{2}$ & MSE    & MAE    \\ \hline
+            Simple Linear Regression & 0.2089  & 0.0264 & 0.1319 \\
+            KNeighborsRegressor      & 0.2065  & 0.0290 & 0.1357 \\
+            RandomForestRegressor    & 0.3482  & 0.0230 & 0.1199 \\
+            Red neuronal TensorFlow  & 0.2986  & 0.0244 & 0.1253 \\ \hline
+        \end{tabular}
+        \caption{Resultados supervisado regresión}
+        \label{tab:resultados supervisado regresion}
+    \end{center}
+\end{table}
+
+
+\begin{table}[t]
+    \begin{center}
+        \begin{tabular}{| c | c | c | c | }\hline
+            Modelo                  & Accuracy & Precision & F1 score \\ \hline
+            KNeighborsClassifier    & 0.6000   & 0.5968    & 0.5944   \\
+            RandomForestClassifier  & 0.6894   & 0.6932    & 0.6803   \\
+            AdaBoostClassifier      & 0.6791   & 0.6827    & 0.6587   \\
+            DecisionTreeClassifier  & 0.6702   & 0.6890    & 0.6112   \\
+            GaussianNB              & 0.6449   & 0.7138    & 0.4732   \\
+            MLPClassifier           & 0.6761   & 0.7021    & 0.6008   \\
+            Red neuronal TensorFlow & 0.6758   & 0.7021    & 0.6475   \\ \hline
+        \end{tabular}
+        \caption{Resultados supervisado clasificación}
+        \label{tab:resultados supervisado clasificacion}
+    \end{center}
+\end{table}
+
+\subsection{Limitaciones}
+
+\section{Conclusiones y Trabajo Futuro}
+
+\appendices
+\section{}
+Appendix uno va aquí.
+
+% you can choose not to have a title for an appendix
+% if you want by leaving the argument blank
+\section{}
+Appendix dos va aquí.
+
+
+% use section* for acknowledgment
+\bibliographystyle{IEEEtran}
+%% you can change the style into any other styles available, I personally love IEEEtran.
+\bibliography{citations}
+%% to generate references, input the name of your .bib file and cite anywhere in the document.
+
 
 \end{document}
