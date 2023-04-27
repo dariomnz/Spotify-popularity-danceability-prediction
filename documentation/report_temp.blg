@@ -4,7 +4,6 @@ The top-level auxiliary file: report_temp.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: IEEEtran.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
-I found no \citation commands---while reading file report_temp.aux
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
@@ -16,45 +15,44 @@ Database file #1: citations.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 0 entries,
+You've used 3 entries,
             4087 wiz_defined-function locations,
-            821 strings with 7300 characters,
-and the built_in function-call counts, 104 in all, are:
-= -- 0
-> -- 0
+            840 strings with 7902 characters,
+and the built_in function-call counts, 1262 in all, are:
+= -- 104
+> -- 12
 < -- 0
-+ -- 0
-- -- 0
-* -- 19
-:= -- 27
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 6
+- -- 3
+* -- 70
+:= -- 278
+add.period$ -- 6
+call.type$ -- 3
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 3
+cite$ -- 3
+duplicate$ -- 99
+empty$ -- 106
+format.name$ -- 3
+if$ -- 251
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 23
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 3
+missing$ -- 15
+newline$ -- 38
+num.names$ -- 3
+pop$ -- 36
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1
+skip$ -- 93
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 3
+swap$ -- 51
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 0
+type$ -- 3
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 22
-(There was 1 error message)
+while$ -- 3
+width$ -- 4
+write$ -- 55

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  26 APR 2023 06:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.14)  27 APR 2023 05:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,87 +432,74 @@ Package babel Info: Making > an active character on input line 722.
 )) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
+) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks33
+\float@box=\box57
+\@float@everytoks=\toks34
+\@floatcapt=\box58
 ) (report_temp.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
 \openout1 = `report_temp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for LS1/libertinust1math/m/n on input line 16.
-LaTeX Font Info:    Trying to load font information for LS1+libertinust1math on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LS1/libertinust1math/m/n on input line 19.
+LaTeX Font Info:    Trying to load font information for LS1+libertinust1math on input line 19.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertinust1math\ls1libertinust1math.fd
 File: ls1libertinust1math.fd 2016/03/23 Fontinst v1.933 font definitions for LS1/libertinust1math.
 )
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for LS2/libertinust1mathsym/m/n on input line 16.
-LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathsym on input line 16.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for LS2/libertinust1mathsym/m/n on input line 19.
+LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathsym on input line 19.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertinust1math\ls2libertinust1mathsym.fd
 File: ls2libertinust1mathsym.fd 2015/04/17 v1.1.2-latex LibertinusT1Mathsym LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 16.
+(Font)              scaled to size 9.0pt on input line 19.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
+\scratchcounter=\count304
 \scratchdimen=\dimen259
-\scratchbox=\box57
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count306
+\scratchbox=\box59
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count307
 \MPscratchDim=\dimen260
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks34
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks36
 ) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Command `\dddot' is already robust on input line 16.
-LaTeX Info: Command `\ddddot' is already robust on input line 16.
+LaTeX Info: Command `\dddot' is already robust on input line 19.
+LaTeX Info: Command `\ddddot' is already robust on input line 19.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@mv@tabular=\count309
-\c@mv@boldtabular=\count310
+\c@mv@tabular=\count310
+\c@mv@boldtabular=\count311
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -550,42 +537,42 @@ Package caption Info: End \AtBeginDocument code.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 16.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
-LaTeX Font Info:    Trying to load font information for T1+libertine on input line 18.
-LaTeX Font Info:    No file T1libertine.fd. on input line 18.
+(lastpage)             ! on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+LaTeX Font Info:    Trying to load font information for T1+libertine on input line 21.
+LaTeX Font Info:    No file T1libertine.fd. on input line 21.
 
 LaTeX Font Warning: Font shape `T1/libertine/b/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 18.
+(Font)              using `T1/cmr/m/n' instead on input line 21.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 18.
+(Font)              size <20.74> substituted on input line 21.
 
 
 LaTeX Font Warning: Font shape `T1/libertine/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 18.
+(Font)              using `T1/cmr/m/n' instead on input line 21.
 
 
 LaTeX Font Warning: Font shape `T1/libertine/m/sc' undefined
-(Font)              using `T1/libertine/m/n' instead on input line 20.
+(Font)              using `T1/libertine/m/n' instead on input line 23.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
+(Font)              scaled to size 9.0pt on input line 35.
 <logo_gips_unit.png, id=1, 853.5087pt x 85.2786pt>
 File: logo_gips_unit.png Graphic file (type png)
 <use logo_gips_unit.png>
-Package pdftex.def Info: logo_gips_unit.png  used on input line 62.
+Package pdftex.def Info: logo_gips_unit.png  used on input line 66.
 (pdftex.def)             Requested size: 216.81pt x 21.6618pt.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 62.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 66.
 (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxbiolinumt-tlf.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 62.
+(Font)              scaled to size 9.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 62.
+(Font)              scaled to size 9.0pt on input line 66.
  [1{C:/Users/damum/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
@@ -593,116 +580,175 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 <images/matriz_correlacion.png, id=13, 742.9356pt x 709.6914pt>
 File: images/matriz_correlacion.png Graphic file (type png)
 <use images/matriz_correlacion.png>
-Package pdftex.def Info: images/matriz_correlacion.png  used on input line 68.
+Package pdftex.def Info: images/matriz_correlacion.png  used on input line 71.
 (pdftex.def)             Requested size: 251.55872pt x 240.29561pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 68.
+(Font)              scaled to size 8.0pt on input line 71.
 <images/histogramas.png, id=14, 1084.05pt x 433.62pt>
 File: images/histogramas.png Graphic file (type png)
 <use images/histogramas.png>
-Package pdftex.def Info: images/histogramas.png  used on input line 73.
+Package pdftex.def Info: images/histogramas.png  used on input line 76.
 (pdftex.def)             Requested size: 251.55872pt x 100.61711pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 <images/popularity_loudness_scatterplot.png, id=15, 1084.05pt x 433.62pt>
 File: images/popularity_loudness_scatterplot.png Graphic file (type png)
 <use images/popularity_loudness_scatterplot.png>
-Package pdftex.def Info: images/popularity_loudness_scatterplot.png  used on input line 78.
+Package pdftex.def Info: images/popularity_loudness_scatterplot.png  used on input line 80.
 (pdftex.def)             Requested size: 251.55872pt x 100.61711pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 <images/danceability_speechiness_scatterplot.png, id=16, 1084.05pt x 433.62pt>
 File: images/danceability_speechiness_scatterplot.png Graphic file (type png)
 <use images/danceability_speechiness_scatterplot.png>
-Package pdftex.def Info: images/danceability_speechiness_scatterplot.png  used on input line 82.
+Package pdftex.def Info: images/danceability_speechiness_scatterplot.png  used on input line 84.
 (pdftex.def)             Requested size: 251.55872pt x 100.61711pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
-(Font)              scaled to size 5.0pt on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
-(Font)              scaled to size 5.0pt on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
-(Font)              scaled to size 5.0pt on input line 88.
-LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathex on input line 88.
-(C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertinust1math\ls2libertinust1mathex.fd
+(Font)              scaled to size 5.0pt on input line 86.
+LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathex on input line 86.
+ (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertinust1math\ls2libertinust1mathex.fd
 File: ls2libertinust1mathex.fd 2016/03/15 v1.0.0-latex LibertinusMath extensions LS2 font definitions
 )
 LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
-(Font)              scaled to size 5.0pt on input line 88.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+esint on input line 88.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 86.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for LS1+libertinust1mathbb on input line 88.
+LaTeX Font Info:    Trying to load font information for LS1+libertinust1mathbb on input line 86.
  (C:\Users\damum\AppData\Local\Programs\MiKTeX\tex/latex/libertinust1math\ls1libertinust1mathbb.fd
 File: ls1libertinust1mathbb.fd 2016/08/22 latex LibertinusT1Mathbb LS1 font definitions
 )
 LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
-(Font)              scaled to size 5.0pt on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
-(Font)              scaled to size 5.0pt on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
-(Font)              scaled to size 9.0pt on input line 88.
+(Font)              scaled to size 9.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
-(Font)              scaled to size 6.0pt on input line 88.
+(Font)              scaled to size 6.0pt on input line 86.
 LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
-(Font)              scaled to size 5.0pt on input line 88.
+(Font)              scaled to size 5.0pt on input line 86.
+<images/Relaciones.png, id=17, 958.3002pt x 853.5087pt>
+File: images/Relaciones.png Graphic file (type png)
+<use images/Relaciones.png>
+Package pdftex.def Info: images/Relaciones.png  used on input line 87.
+(pdftex.def)             Requested size: 251.55872pt x 224.04288pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: logo_gips_unit.png Graphic file (type png)
 <use logo_gips_unit.png>
-Package pdftex.def Info: logo_gips_unit.png  used on input line 89.
+Package pdftex.def Info: logo_gips_unit.png  used on input line 88.
 (pdftex.def)             Requested size: 216.81pt x 21.6618pt.
- [2 <./images/matriz_correlacion.png> <./images/histogramas.png> <./images/popularity_loudness_scatterplot.png> <./images/danceability_speechiness_scatterplot.png>] (report_temp.bbl
+ [2 <./images/matriz_correlacion.png> <./images/histogramas.png> <./images/popularity_loudness_scatterplot.png> <./images/danceability_speechiness_scatterplot.png>]
+File: logo_gips_unit.png Graphic file (type png)
+<use logo_gips_unit.png>
+Package pdftex.def Info: logo_gips_unit.png  used on input line 163.
+(pdftex.def)             Requested size: 216.81pt x 21.6618pt.
+ [3 <./images/Relaciones.png>]
+<images/PCA.png, id=33, 723.4227pt x 714.7503pt>
+File: images/PCA.png Graphic file (type png)
+<use images/PCA.png>
+Package pdftex.def Info: images/PCA.png  used on input line 183.
+(pdftex.def)             Requested size: 75.46837pt x 74.55476pt.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 183.
+<images/TSNE.png, id=34, 720.5319pt x 714.7503pt>
+File: images/TSNE.png Graphic file (type png)
+<use images/TSNE.png>
+Package pdftex.def Info: images/TSNE.png  used on input line 185.
+(pdftex.def)             Requested size: 75.46837pt x 74.86014pt.
+<images/FastICA.png, id=35, 736.4313pt x 714.7503pt>
+File: images/FastICA.png Graphic file (type png)
+<use images/FastICA.png>
+Package pdftex.def Info: images/FastICA.png  used on input line 187.
+(pdftex.def)             Requested size: 75.46837pt x 73.24602pt.
+<images/FeatureAgglomeration.png, id=36, 715.473pt x 714.7503pt>
+File: images/FeatureAgglomeration.png Graphic file (type png)
+<use images/FeatureAgglomeration.png>
+Package pdftex.def Info: images/FeatureAgglomeration.png  used on input line 194.
+(pdftex.def)             Requested size: 75.46837pt x 75.38364pt.
+<images/TruncatedSVD.png, id=37, 715.473pt x 714.7503pt>
+File: images/TruncatedSVD.png Graphic file (type png)
+<use images/TruncatedSVD.png>
+Package pdftex.def Info: images/TruncatedSVD.png  used on input line 196.
+(pdftex.def)             Requested size: 75.46837pt x 75.38364pt.
+<images/NMF.png, id=38, 721.2546pt x 714.7503pt>
+File: images/NMF.png Graphic file (type png)
+<use images/NMF.png>
+Package pdftex.def Info: images/NMF.png  used on input line 198.
+(pdftex.def)             Requested size: 75.46837pt x 74.78378pt.
+File: logo_gips_unit.png Graphic file (type png)
+<use logo_gips_unit.png>
+Package pdftex.def Info: logo_gips_unit.png  used on input line 238.
+(pdftex.def)             Requested size: 216.81pt x 21.6618pt.
+ [4 <./images/PCA.png> <./images/TSNE.png> <./images/FastICA.png> <./images/FeatureAgglomeration.png> <./images/TruncatedSVD.png> <./images/NMF.png>] (report_temp.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 26.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 24.
+Underfull \hbox (badness 2653) in paragraph at lines 26--30
+[]\T1/LinuxLibertineT-TLF/m/n/9 Y. E. Ay, ``Spo-tify da-ta-set 1921-2020, 600k+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+\T1/LinuxLibertineT-TLF/m/n/9 tracks,'' \T1/LinuxLibertineT-TLF/m/it/9 Da-ta-set\T1/LinuxLibertineT-TLF/m/n/9 , 2021. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+\T1/LinuxLibertineT-TLF/m/n/9 https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
+\T1/LinuxLibertineT-TLF/m/n/9 popularity-on-spotify-when-data-needs-culture-more-than-
+ []
 
 ) 
 AED: lastpage setting LastPage
 File: logo_gips_unit.png Graphic file (type png)
 <use logo_gips_unit.png>
-Package pdftex.def Info: logo_gips_unit.png  used on input line 148.
+Package pdftex.def Info: logo_gips_unit.png  used on input line 250.
 (pdftex.def)             Requested size: 216.81pt x 21.6618pt.
-[3
+[5
 
 ] (report_temp.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
 
 LaTeX Font Warning: Size substitutions with differences
@@ -713,17 +759,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11372 strings out of 476339
- 195854 string characters out of 5788119
- 1873340 words of memory out of 5000000
- 31575 multiletter control sequences out of 15000+600000
- 557289 words of font info for 75 fonts, out of 8000000 for 9000
+ 10993 strings out of 476339
+ 187699 string characters out of 5788119
+ 1880340 words of memory out of 5000000
+ 31210 multiletter control sequences out of 15000+600000
+ 567979 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,15n,91p,1461b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinust1math/libusMR.enc}{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinust1math/libusMI.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk>{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on report_temp.pdf (3 pages, 1423600 bytes).
+ 87i,15n,91p,1483b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinust1math/libusMR.enc}{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinust1math/libusMI.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk>{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>{C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc} <C:\Users\damum\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/damum/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on report_temp.pdf (5 pages, 4366441 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 161 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
